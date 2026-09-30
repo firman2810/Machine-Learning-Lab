@@ -1,4 +1,4 @@
-# DATA VISUALISATION LAB MAY 2026
+# Machine Learning Lab SEP26
 
 hi there
 
