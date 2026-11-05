@@ -1,0 +1,4 @@
+down down down left
+down down down TRAP
+right down down down
+right right right GOAL
